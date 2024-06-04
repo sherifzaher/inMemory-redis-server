@@ -3,7 +3,7 @@ package server
 import (
 	"bufio"
 	"fmt"
-	"github.com/sherifzaher/inMemory-redis-server/pkg/db"
+	"github.com/sherifzaher/inMemory-redis-server/pkg/internal/db"
 	"io"
 	"log"
 	"net"
